@@ -1,0 +1,588 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+
+}
+
+/* Banner */
+#banner{
+    background-image: url("./Banner\ \(1\).png");
+    width: 100%;
+}
+
+ /* Header Section */
+
+.header{
+
+    color: #ffffff;
+    margin: 0px 70px;
+} 
+
+/* Navbar Section  */
+.navbar{
+
+color: #ffffff;
+}
+#myynav{
+    /* margin: 0px 70px; */
+}
+
+/* Coding Section1 */
+.butts1{
+    background-color: #4686E7;
+    border:1px solid  #4686E7;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+     padding-right: 15px;
+     padding-left:  15px;
+}
+.section1{
+    
+    color:white;
+
+}
+
+
+/* Coding Section2 */
+/* carausel */
+.contain {
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  .item {
+    align-items: center;
+    color: white;
+    display: flex;
+    height: 300px;
+
+  }
+  .item1{
+    align-items: center;
+   color: white;
+    display: flex;
+    height: 500px;
+    width: 100%;
+  }
+  
+  #slider-img img{
+    width:100%;
+    
+  }
+  #slider-img1 img{
+    width:100%;
+
+  }
+ /* hover text */
+  .overlay1 {
+    position: relative
+  }
+  
+  .imageoverlay {
+    display: block;
+    width: 100%;
+    height: auto;
+    
+  }
+  
+  .overlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+     height: 100%;
+    width: 100%; 
+    opacity: 0;
+    transition: .5s ease;
+
+    background: #000000B2;
+
+  }
+  
+  .overlay1:hover .overlay2 {
+    opacity: 1;
+  }
+  
+  .textoverlay {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+     top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+  }
+.overlay1 img{
+    width:100%;
+    height: 100%;
+}
+
+
+
+
+
+#shadows{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+   margin-top: -170px; 
+   background: white;
+   border-radius: 5px;
+}
+
+#shadows p{
+    color:#151515;
+    font-weight: 500;
+    text-align: justify;
+}
+li{
+    list-style: none;
+}
+/* Coding Section3 */
+#para1 h4{
+font-weight: 800;
+}
+#para1 p{
+    font-size: 17px;
+    font-weight: 500;
+    color: #666666;
+
+}
+#parass  {
+   color: #293E5E;
+   font: size 16px;
+   font-weight: 500;
+   line-height: 200%;
+}
+
+
+/*Coding Section4 */
+#section4{
+    background-image: url('./images/Group\ 1.jpg');
+    width: 100%;
+    height: 500px;
+}
+#section4 h3{
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 44px;
+    font-size: 39px;
+}
+#section4 p{
+    color:white;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+
+/* Coding Section5  */
+#topmn{
+    margin-top: -190px;
+    z-index: 999;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+#shadow2{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; 
+}
+.fonter{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 19.36px;
+    color: #293E5E;
+
+}
+#shadow2 p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    color: #666666;
+
+}
+
+
+/*Coding Section6 */
+#section6{
+    background:  #F7F7F7;
+    width: 100%;
+    height: 500px;
+}
+#section6 p{
+    font-size: 20px;
+
+   color: #333333;
+}
+/* carausel */
+.mainoverlay {
+    position: relative;
+    /* width: 50%; */
+    width: 100%;
+  }
+  
+  .main-img {
+    display: block;
+    width: 100%;
+   height: 319px;
+
+  }
+  
+  .mainoverlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: #000000B2;
+
+  }
+  
+  .mainoverlay:hover .mainoverlay2 {
+    opacity: 1;
+  }
+  
+  .maintext {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+/* Certificate Section  */
+#certificate{
+background: #222222;
+color: white;
+
+}
+#certificate p{
+    font-weight: 500;
+    color:white;
+    
+}
+
+
+
+
+
+
+
+/*  Clients Section */
+#mycards p {
+font-size: 14px;
+font-weight: 600;
+color:#333333;
+
+}
+ .svgss{
+    color: #EBBE1D;
+}
+
+
+/* Contact Section */
+
+#contact input{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#contact1 input{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+
+
+/* Footer */
+.footer{
+    background-color:#151515;;
+    color: #ffffff;
+
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+.footer p{
+    font-size: 14px;
+
+}
+#footer-p p{
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 17px;
+}
+#footer-p{
+    background: #111111;
+
+}
+
+
+
+
+
+
+/* MEDIA QUERY */
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+    #myynav {
+      margin: 0;
+    }
+    .navbar-nav{
+        background-color: #111111;
+        padding: 15px;
+    }
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (max-width: 600px) {
+    #myynav{
+      margin: 0;
+    }
+  }
+
+/* */
+@media (min-width: 320px) and (max-width: 680px) {
+
+.header{
+    display: none;
+}
+
+#res h5{
+    font-size: 35px!important;
+}
+#res h3{
+    
+    font-size: 40px!important;
+
+}
+#res h1{
+
+    font-size: 45px!important;
+
+}
+#butts1{
+    width: fit-content!important;
+}
+
+.res2{
+    margin-top: 10px;
+}
+.fontermedia{
+    font-size: 18px;
+}
+.fontermedia2{
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+
+}
+
+
+
+
+
+
+
+/*  */
+/* SERVICES */
+/* services section1 */
+#services{
+    background-image: url('./images/Rectangle\ 40.jpg');
+    width: 100%;
+    height: 200px;
+}
+#services h1{
+    color:#ffffff;
+    font-weight: 900;
+    font-size: 64px;
+Line-height:77.45px;
+}
+
+/* services section2 */
+#services2 p {
+    color: #555555;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+}
+#services2 li {
+    color: #555555;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+/* services section3 */
+
+.main-img2 {
+    display: block;
+    width: 100%;
+   height: 250px;
+
+  }
+
+
+
+
+/*  */
+/* GALLERY */
+/* gallery section 2 */
+
+.gallery1 {
+    position: relative;
+    width: 100%
+  }
+  
+  .gallery-img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay-gallery {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:rgba(253, 184, 33,0.6);
+    ;
+  }
+  
+  .gallery1:hover .overlay-gallery {
+    opacity: 1;
+  }
+  
+ 
+/*  */
+/* ABOUT */
+/* about section1 */
+#aboutbg{
+    background-image: url('./images/Rectangle\ 40\ \(3\).jpg');
+    width: 100%;
+    height: 200px;
+}
+#aboutbg h1{
+    color:#ffffff;
+    font-weight: 900;
+    font-size: 64px;
+Line-height:77.45px;
+}
+
+
+/* about section2 */
+#about-font h1{
+font-weight: 800;
+font-size: 36px;
+line-height: 64.8px;
+color:  #333333;
+
+}
+#about-font p{
+    font-size: 16px;
+    color: #555555;
+    line-height: 28.8px;
+    font-weight: 400;
+
+}
+#about-font h6{
+    color: #555555;
+    line-height: 28.8px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
+/* MISSION AND VISION */
+/* mission section1 */
+.mission-font h1{
+    color:gray;
+
+    font-weight: bolder;
+}
+.mission-font p{
+    color: #848484;
+}
+#crumbs a{
+text-decoration: none;
+}
+
+/* Contct Section */
+#contactbg{
+    background-image: url('./images/Rectangle\ 40\ \(2\).jpg');
+    width: 100%;
+    height: 200px;
+}
+#contactbg h1{
+    color:#ffffff;
+    font-weight: 900;
+    font-size: 64px;
+Line-height:77.45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* media query */
+/* */
+@media (min-width: 320px) and (max-width: 680px) {
+
+
+}

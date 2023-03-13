@@ -1,0 +1,50 @@
+[28-Dec-2022 17:28:17 UTC] PHP Notice:  Undefined index: cname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 3
+[28-Dec-2022 17:28:17 UTC] PHP Notice:  Undefined index: name in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 4
+[28-Dec-2022 17:28:17 UTC] PHP Notice:  Undefined index: phone in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[28-Dec-2022 17:28:17 UTC] PHP Notice:  Undefined index: message in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 6
+[29-Dec-2022 12:27:34 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/contact.php on line 36
+[29-Dec-2022 12:27:34 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/contact.php on line 36
+[02-Jan-2023 05:23:02 UTC] PHP Notice:  Undefined index: cname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 3
+[02-Jan-2023 05:23:02 UTC] PHP Notice:  Undefined index: name in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 4
+[02-Jan-2023 05:23:02 UTC] PHP Notice:  Undefined index: phone in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[02-Jan-2023 05:23:02 UTC] PHP Notice:  Undefined index: message in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 6
+[02-Jan-2023 05:23:23 UTC] PHP Notice:  Undefined index: cname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 3
+[02-Jan-2023 05:23:23 UTC] PHP Notice:  Undefined index: name in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 4
+[02-Jan-2023 05:23:23 UTC] PHP Notice:  Undefined index: phone in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[02-Jan-2023 05:23:23 UTC] PHP Notice:  Undefined index: message in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 6
+[10-Jan-2023 15:52:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 7
+[10-Jan-2023 15:52:27 UTC] PHP Notice:  Could not connect to MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 10
+[10-Jan-2023 15:52:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/index.php on line 93
+[10-Jan-2023 15:52:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/index.php on line 94
+[13-Jan-2023 05:54:54 UTC] PHP Notice:  Undefined index: cname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 3
+[13-Jan-2023 05:54:54 UTC] PHP Notice:  Undefined index: name in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 4
+[13-Jan-2023 05:54:54 UTC] PHP Notice:  Undefined index: phone in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[13-Jan-2023 05:54:54 UTC] PHP Notice:  Undefined index: message in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 6
+[17-Jan-2023 06:16:12 UTC] PHP Notice:  Undefined index: email in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 7
+[17-Jan-2023 06:22:21 UTC] PHP Notice:  Undefined index: email in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: companyname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 3
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: firstname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 4
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: lastname in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 5
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: email in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 7
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: phone in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 8
+[03-Feb-2023 04:33:36 UTC] PHP Notice:  Undefined index: message in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/mail.php on line 9
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 7
+[09-Mar-2023 11:12:49 UTC] PHP Notice:  Could not connect to MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 10
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 212
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 213
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252
+[09-Mar-2023 11:12:49 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 7
+[09-Mar-2023 11:13:50 UTC] PHP Notice:  Could not connect to MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/include/config.php on line 10
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 166
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 212
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 213
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252
+[09-Mar-2023 11:13:50 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/p2bqg8fif7ri/public_html/urvyasecurity.com/blog.php on line 252

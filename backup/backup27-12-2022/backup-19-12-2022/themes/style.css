@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Banner */
+#banner{
+    background-image: url("./Banner\ \(1\).png");
+    width: 100%;
+}
+/* header */
+
+.header{
+
+    color: #ffffff;
+    /* margin: 0px 70px; */
+} 
+/* navbar */
+.navbar{
+
+color: #ffffff;
+}
+#myynav{
+    margin: 0px 70px;
+}
+
+/* section1 */
+.butts1{
+    background-color: #4686E7;
+    border:1px solid  #4686E7;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+     padding-right: 15px;
+     padding-left:  15px;
+}
+.section1{
+    
+    color:white;
+    font-weight: bolder;
+}
+
+
+/* carausel */
+@media (max-width: 767px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* medium and up screens */
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(25%);
+    }
+    
+    .carousel-inner .carousel-item-start.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-25%);
+    }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+  transform: translateX(0);
+}
+
+ .card1{
+    border: none;
+ } 
+
+
+
+
+
+/* section2 */
+#shadows{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+}
+
+#shadows p{
+    color:#151515;
+    font-weight: 500;
+}
+li{
+    list-style: none;
+}
+/* section3 */
+#para1 h4{
+font-weight: 800;
+}
+#para1 p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #666666;
+
+}
+#parass  {
+   color: #293E5E;
+   font: size 16px;
+   font-weight: 500;
+   line-height: 200%;
+}
+
+
+/* section4 */
+#section4{
+    background-image: url('./Group\ 1.jpg');
+    width: 100%;
+    height: 500px;
+}
+#section4 h3{
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 44px;
+    font-size: 39px;
+}
+#section4 p{
+    color:white;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+
+/* section5 */
+#topmn{
+    margin-top: -190px;
+    z-index: 999;
+    background-color: #ffffff;
+}
+#shadow2{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; 
+    /* margin-top: -70px; */
+}
+.fonter{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 19.36px;
+    color: #293E5E;
+
+}
+#shadow2 p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    color: #666666;
+
+}
+/* section6 */
+#section6{
+    background:  #F7F7F7;
+    width: 100%;
+    height: 500px;
+}
+#section6 p{
+    font-size: 20px;
+
+   color: #333333;
+}
+/* certificate  */
+#certificate{
+background: #222222;
+color: white;
+
+}
+#certificate p{
+    font-weight: 500;
+    color:white;
+    
+}
+
+
+
+
+
+
+
+/* clients comments */
+#mycards p {
+font-size: 14px;
+font-weight: 600;
+color:#333333;
+
+}
+ .svgss{
+    color: #EBBE1D;
+}
+
+/* contact section */
+
+.in1{
+    background-color: #F5F5F5;
+    
+    height: 37px;
+    width: 100%;
+    border: 1px solid  #F5F5F5 ;
+    border-radius: 5px;
+}
+.in2{
+    background-color: #F5F5F5;
+    
+    height: 67px;
+    width: 100%;
+    border: 1px solid  #F5F5F5 ;
+    border-radius: 5px;
+}
+.in1 p{
+  color: #333333;
+  font-weight: 500;
+}
+.in2 p{
+  color: #333333;
+  font-weight: 500;
+}
+
+
+
+
+/* footer */
+.footer{
+    background-color:#151515;;
+    color: #ffffff;
+
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+.footer p{
+    font-size: 14px;
+
+}
+#footer-p p{
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 17px;
+}
+#footer-p{
+    background: #111111;
+
+}
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+    #myynav {
+      margin: 0;
+    }
+    .navbar-nav{
+        background-color: #111111;
+        padding: 15px;
+    }
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (max-width: 600px) {
+    #myynav{
+      margin: 0;
+    }
+  }
+/* media query */
+/* header */
+@media (min-width: 320px) and (max-width: 680px) {
+
+.header{
+    display: none;
+}
+.navbar-toggler{
+    color: #ffffff;
+}
+#res{
+    padding:30px;
+
+}
+.res2{
+    margin-top: 10px;
+}
+}
+
+
+
+
+
+
